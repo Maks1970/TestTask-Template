@@ -1,0 +1,11 @@
+D:\vs2019\TZ\TestTask Template\AppKOSH\bin\Debug\AppKOSH.exe.config
+D:\vs2019\TZ\TestTask Template\AppKOSH\bin\Debug\AppKOSH.exe
+D:\vs2019\TZ\TestTask Template\AppKOSH\bin\Debug\AppKOSH.pdb
+D:\vs2019\TZ\TestTask Template\AppKOSH\bin\Debug\CSharpTest.dll
+D:\vs2019\TZ\TestTask Template\AppKOSH\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\vs2019\TZ\TestTask Template\AppKOSH\bin\Debug\CSharpTest.pdb
+D:\vs2019\TZ\TestTask Template\AppKOSH\obj\Debug\AppKOSH.csproj.AssemblyReference.cache
+D:\vs2019\TZ\TestTask Template\AppKOSH\obj\Debug\AppKOSH.csproj.CoreCompileInputs.cache
+D:\vs2019\TZ\TestTask Template\AppKOSH\obj\Debug\AppKOSH.csproj.CopyComplete
+D:\vs2019\TZ\TestTask Template\AppKOSH\obj\Debug\AppKOSH.exe
+D:\vs2019\TZ\TestTask Template\AppKOSH\obj\Debug\AppKOSH.pdb
